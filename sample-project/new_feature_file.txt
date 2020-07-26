@@ -1,1 +1,2 @@
 This is the new file that I have created in feature branch
+Adding a new line in feat2 branch
